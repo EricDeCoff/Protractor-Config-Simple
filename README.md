@@ -17,7 +17,7 @@ exports.config = {
 };
 ```
 
-### example-spec.js
+### jasmine-angularOrg-spec.js
 ```bash
 // example-spec.js
 describe('angularjs homepage', function() {
