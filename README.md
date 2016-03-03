@@ -9,7 +9,7 @@ exports.config = {
     'browserName': 'chrome'
   },
 
-  specs: ['example-spec.js'],
+  specs: ['jasmine-angularOrg-spec.js'],
 
   jasmineNodeOpts: {
     showColors: true
